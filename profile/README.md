@@ -17,4 +17,6 @@
    - ...
  - React.js
  - JPA
+ - Jenkins 
+ - Swagger
  - ...
