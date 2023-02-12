@@ -1,5 +1,8 @@
 ## 📌 Our Study Space
-> 2023.02 ~ 
+> 📅  **2023.02.09~**
+
+<br />
+
 ### ```⭐ Developer```
 - [👨🏻‍💻 _lsuhan_](https://github.com/lsuhan)
 - [👩🏻‍💻 _hhyewon_](https://github.com/)
