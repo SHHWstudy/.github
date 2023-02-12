@@ -10,6 +10,8 @@
 <br />
 
 ### ```⭐ Stack Goal```
+ - JAVA
+ - mariaDB
  - AWS
    - EC2
    - RDS
