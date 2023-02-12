@@ -5,7 +5,7 @@
 
 ### ```⭐ Developer```
 - [👨🏻‍💻 _lsuhan_](https://github.com/lsuhan)
-- [👩🏻‍💻 _hhyewon_](https://github.com/)
+- [👩🏻‍💻 _hhyewon_](https://github.com/hhyewon)
 
 <br />
 
