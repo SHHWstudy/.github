@@ -9,7 +9,7 @@
 
 <br />
 
-### ```⭐ Goal```
+### ```⭐ Stack Goal```
  - AWS
    - EC2
    - RDS
@@ -18,5 +18,5 @@
  - React.js
  - JPA
  - Jenkins 
- - Swagger
+ - [Swagger](https://tecoble.techcourse.co.kr/post/2020-08-31-spring-swagger/)
  - ...
